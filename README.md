@@ -18,6 +18,11 @@ During my professional tenure in the blockchain economy, I have:
 
 # Portfolio
 
+featured:
+
+[Download my resume](/path/to/resume.pdf)
+2022 Global Digital Currency Outlook Report - Use Cases, Development, and Adoption.pdf
+
 ### CryptoEQ Project Reports
 
 [Aave (AAVE)](https://www.cryptoeq.io/corereports/aave-abridged)
