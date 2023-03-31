@@ -20,7 +20,7 @@ During my professional tenure in the blockchain economy, I have:
 
 featured:
 
-[Download my 2022 Digital Currency Report](/path/to/currency-report-2022.pdf)
+[Download my 2022 Digital Currency Report](currency-report-2022.pdf)
 
 ### CryptoEQ Project Reports
 
