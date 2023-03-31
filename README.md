@@ -16,6 +16,20 @@ During my professional tenure in the blockchain economy, I have:
 **3.** Worked on both the on-chain metaverse and DeFi.
 
 
+### Contact & Socials
+
+Email: zlorance@protonmail.com
+
+LinkedIn: 
+[Zachary T Lorance](https://www.linkedin.com/in/zacharytlorance/)
+
+Twitter Page:
+[zacharias_eth](https://twitter.com/zacharias_eth)
+
+GitHub:
+[zlorance](https://github.com/zlorance)
+
+
 # Portfolio
 
 FEATURED:
@@ -67,15 +81,3 @@ Additional private reports include: The Sandbox, Axie Infinity, THORChain, Layer
 [LandVault Platform Update V1.2](https://landvault.io/blog/landvault-platform-nov-update)
 
 
-
-### Content Samples - Ampleforth Community (AMPL, SPOT)
-
-Q1 Performance Report
-
-ex1
-
-ex2
-
-ex3
-
-ex4
