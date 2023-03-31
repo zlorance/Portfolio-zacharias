@@ -18,5 +18,28 @@ During my professional tenure in the blockchain economy, I have:
 
 # Portfolio
 
-Industry Project Reports
+Crypto Project Reports
 
+[![ALGO](image URL)](https://www.cryptoeq.io/corereports/aave-abridged)
+
+[![ALGO](image URL)](https://www.cryptoeq.io/corereports/algorand-abridged)
+
+[![APT](image URL)](https://www.cryptoeq.io/corereports/aptos-abridged)
+
+[![AVAX](image URL)](https://www.cryptoeq.io/corereports/avalanche-abridged)
+
+[![ADA](image URL)](https://www.cryptoeq.io/corereports/cardano-abridged)
+
+[![ATOM](image URL)](https://www.cryptoeq.io/corereports/cosmos-abridged)
+
+[![FTM](image URL)](https://www.cryptoeq.io/corereports/fantom-abridged)
+
+[![FIL](image URL)](https://www.cryptoeq.io/corereports/filecoin-abridged)
+
+[![NEAR](image URL)](https://www.cryptoeq.io/corereports/near-protocol-abridged)
+
+[![MATIC](image URL)](https://www.cryptoeq.io/corereports/polygon-abridged)
+
+[![SOL](image URL)](https://www.cryptoeq.io/corereports/solana-abridged)
+
+[![SNX](image URL)](https://www.cryptoeq.io/corereports/synthetix-abridged)
