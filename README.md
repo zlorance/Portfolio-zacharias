@@ -44,8 +44,6 @@ FEATURED:
 
 [Algorand (ALGO)](https://www.cryptoeq.io/corereports/algorand-abridged)
 
-[Aptos (APT)](https://www.cryptoeq.io/corereports/aptos-abridged)
-
 [Avalanche (AVAX)](https://www.cryptoeq.io/corereports/avalanche-abridged)
 
 [Cardano (ADA)](https://www.cryptoeq.io/corereports/cardano-abridged)
