@@ -20,7 +20,8 @@ During my professional tenure in the blockchain economy, I have:
 
 Crypto Project Reports
 
-[![ALGO](image URL)](https://www.cryptoeq.io/corereports/aave-abridged)
+[![AAVE](aave.png)
+[Aave (AAVE)](https://www.cryptoeq.io/corereports/aave-abridged)
 
 [![ALGO](image URL)](https://www.cryptoeq.io/corereports/algorand-abridged)
 
