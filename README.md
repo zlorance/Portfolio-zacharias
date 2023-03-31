@@ -18,29 +18,52 @@ During my professional tenure in the blockchain economy, I have:
 
 # Portfolio
 
-Crypto Project Reports
+### CryptoEQ Project Reports
 
-[![AAVE](aave.png)
 [Aave (AAVE)](https://www.cryptoeq.io/corereports/aave-abridged)
 
-[![ALGO](image URL)](https://www.cryptoeq.io/corereports/algorand-abridged)
+[Algorand (ALGO)](https://www.cryptoeq.io/corereports/algorand-abridged)
 
-[![APT](image URL)](https://www.cryptoeq.io/corereports/aptos-abridged)
+[Aptos (APT)](https://www.cryptoeq.io/corereports/aptos-abridged)
 
-[![AVAX](image URL)](https://www.cryptoeq.io/corereports/avalanche-abridged)
+[Avalanche (AVAX)](https://www.cryptoeq.io/corereports/avalanche-abridged)
 
-[![ADA](image URL)](https://www.cryptoeq.io/corereports/cardano-abridged)
+[Cardano (ADA)](https://www.cryptoeq.io/corereports/cardano-abridged)
 
-[![ATOM](image URL)](https://www.cryptoeq.io/corereports/cosmos-abridged)
+[Cosmos (ATOM)](https://www.cryptoeq.io/corereports/cosmos-abridged)
 
-[![FTM](image URL)](https://www.cryptoeq.io/corereports/fantom-abridged)
+[Fantom (FTM)](https://www.cryptoeq.io/corereports/fantom-abridged)
 
-[![FIL](image URL)](https://www.cryptoeq.io/corereports/filecoin-abridged)
+[NEAR Network (NEAR)](https://www.cryptoeq.io/corereports/near-protocol-abridged)
 
-[![NEAR](image URL)](https://www.cryptoeq.io/corereports/near-protocol-abridged)
+[Polygon (MATIC)](https://www.cryptoeq.io/corereports/polygon-abridged)
 
-[![MATIC](image URL)](https://www.cryptoeq.io/corereports/polygon-abridged)
+[Solana (SOL)](https://www.cryptoeq.io/corereports/solana-abridged)
 
-[![SOL](image URL)](https://www.cryptoeq.io/corereports/solana-abridged)
+[Synthetix (SNX)](https://www.cryptoeq.io/corereports/synthetix-abridged)
 
-[![SNX](image URL)](https://www.cryptoeq.io/corereports/synthetix-abridged)
+Additional private reports include: The Sandbox, Axie Infinity, THORChain, LayerZero, Filecoin, and more
+
+
+
+### Content Samples - LandVault
+
+ex1
+
+ex2
+
+ex3
+
+
+
+### Content Samples - Ampleforth Community (AMPL, SPOT)
+
+Q1 Performance Report
+
+ex1
+
+ex2
+
+ex3
+
+ex4
