@@ -45,14 +45,20 @@ During my professional tenure in the blockchain economy, I have:
 Additional private reports include: The Sandbox, Axie Infinity, THORChain, LayerZero, Filecoin, and more
 
 
+### CrytoEQ Industry Report Contributions
+
+[Blockchain Gaming 2022](https://www.cryptoeq.io/research/blockchain-gaming-2022)
+
+[Blockchain Bridges Report](https://www.cryptoeq.io/research/bridge-report)
+
+
+
 
 ### Content Samples - LandVault
 
-ex1
+[Metaverse Development Framework](https://landvault.io/blog/build-accelerate-scale)
 
-ex2
-
-ex3
+[LandVault Platform Update V1.2](https://landvault.io/blog/landvault-platform-nov-update)
 
 
 
