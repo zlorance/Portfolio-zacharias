@@ -20,8 +20,7 @@ During my professional tenure in the blockchain economy, I have:
 
 featured:
 
-[Download my resume](/path/to/resume.pdf)
-2022 Global Digital Currency Outlook Report - Use Cases, Development, and Adoption.pdf
+[Download my 2022 Digital Currency Report](/path/to/currency-report-2022.pdf)
 
 ### CryptoEQ Project Reports
 
