@@ -1,4 +1,4 @@
-## Portfolio Introduction
+## Introduction
 
 Crypto native since 2018, Web3 professional since 2020
 
@@ -14,3 +14,9 @@ During my professional tenure in the blockchain economy, I have:
 **2.** Successfully launched my own startup
 
 **3.** Worked on both the on-chain metaverse and DeFi.
+
+
+# Portfolio
+
+Industry Project Reports
+
