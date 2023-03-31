@@ -18,9 +18,11 @@ During my professional tenure in the blockchain economy, I have:
 
 # Portfolio
 
-featured:
+FEATURED:
 
-[Download my 2022 Digital Currency Report](currency-report-2022.pdf)
+[2022 Digital Currency Report](currency-report-2022.pdf)
+
+[See my Resume]()
 
 ### CryptoEQ Project Reports
 
