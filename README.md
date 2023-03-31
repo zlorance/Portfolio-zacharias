@@ -65,7 +65,7 @@ FEATURED:
 Additional private reports include: The Sandbox, Axie Infinity, THORChain, LayerZero, Filecoin, and more
 
 
-### CrytoEQ Industry Report Contributions
+### CryptoEQ Industry Report Contributions
 
 [Blockchain Gaming 2022](https://www.cryptoeq.io/research/blockchain-gaming-2022)
 
