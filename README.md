@@ -34,6 +34,8 @@ GitHub:
 
 FEATURED:
 
+[Ampleforth Q1 2023 Summary](https://documentingampl.medium.com/documenting-ampl-spot-q1-2023-performance-summary-c82225e19dbe)
+
 [2022 Digital Currency Report](currency-report-2022.pdf)
 
 [See my Resume](resume.pdf)
@@ -75,5 +77,16 @@ Additional private reports include: The Sandbox, Axie Infinity, THORChain, Layer
 [Metaverse Development Framework](https://landvault.io/blog/build-accelerate-scale)
 
 [LandVault Platform Update V1.2](https://landvault.io/blog/landvault-platform-nov-update)
+
+
+
+
+### Content Samples - Ampleforth Community Project
+
+[Ampleforth’s Recession-Resistant Monetary System](https://documentingampl.medium.com/ampleforths-recession-resistant-monetary-system-reducing-risk-in-crypto-a9689cecf9cd)
+
+[SPOT Token Revenue Opportunties (Without Staking)](https://documentingampl.medium.com/how-the-spot-token-offers-gains-without-staking-dad900a483b4)
+
+[Technical Overview: SPOT Collateral Mechanism](https://documentingampl.medium.com/how-the-spot-token-achieves-a-stable-value-e769f7a94498)
 
 
