@@ -6,7 +6,7 @@ Crypto native since 2018, Web3 professional since 2020
 ![profile_picture](profile-pic.png)
 
 
-With my 5+ years experience in blockchain, I have acquired a dual career skillset as both a technical writer and blockchain analyst. 
+With my 5+ years experience in blockchain, I have acquired a dual career skillset as both a technical writer and business analyst. 
 During my professional tenure in the blockchain economy, I have:
 
 **1.** Covered several blue chip crypto projects for institutional investors
@@ -33,6 +33,8 @@ GitHub:
 # Portfolio
 
 FEATURED:
+
+[Stabilizing DAO Treasuries with AMPL](https://medium.com/@documentingampl/stabilizing-dao-treasuries-with-ampleforth-an-elastic-supply-approach-for-long-term-resilience-in-1ce7b0958989)
 
 [Ampleforth Q1 2023 Summary](https://documentingampl.medium.com/documenting-ampl-spot-q1-2023-performance-summary-c82225e19dbe)
 
