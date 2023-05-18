@@ -40,8 +40,6 @@ FEATURED:
 
 [2022 Digital Currency Report](currency-report-2022.pdf)
 
-[See my Resume](resume.pdf)
-
 ### CryptoEQ Project Reports
 
 [Aave (AAVE)](https://www.cryptoeq.io/corereports/aave-abridged)
