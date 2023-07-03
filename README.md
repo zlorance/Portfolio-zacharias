@@ -1,19 +1,19 @@
 ## Introduction
 
-Professional Writer, Researcher
+Technical Writer, Researcher
 
 
 ![profile_picture](profile-pic.png)
 
 
-With my 5+ years of professional writing experience, I have acquired a dual career skillset as both a technical writer and business analyst. 
+With my 4+ years of professional writing experience, I have acquired a dual career skillset as both a technical writer and research analyst. 
 During my professional tenure, I have:
 
 **1.** Covered several blue chip crypto / emerging technology projects for institutional investors
 
 **2.** Strategically planned, produced, and mantain over 1,000+ pages of valuable content
 
-**3.** Worked with multiple disciplines, including blockchain, crypto, fintech, and more
+**3.** Produced documentation for a wide array of audiences, including native & non-native crypto investors and consumers
 
 
 ### Contact & Socials
@@ -36,11 +36,16 @@ FEATURED:
 
 [Stabilizing DAO Treasuries with AMPL](https://medium.com/@documentingampl/stabilizing-dao-treasuries-with-ampleforth-an-elastic-supply-approach-for-long-term-resilience-in-1ce7b0958989)
 
-[Ampleforth Q1 2023 Summary](https://documentingampl.medium.com/documenting-ampl-spot-q1-2023-performance-summary-c82225e19dbe)
+[Ampleforth Q2 2023 Summary]([https://documentingampl.medium.com/documenting-ampl-spot-q1-2023-performance-summary-c82225e19dbe](https://medium.com/@documentingampl/documenting-ampl-spot-q2-2023-performance-summary-f71a03116910))
 
 [2022 Digital Currency Report](currency-report-2022.pdf)
 
+
+
+
 ### CryptoEQ Project Reports
+
+The following reports are abridged, meaning they have been shortened for non-CryptoEQ members:
 
 [Aave (AAVE)](https://www.cryptoeq.io/corereports/aave-abridged)
 
@@ -74,6 +79,10 @@ Additional private reports include: The Sandbox, Axie Infinity, THORChain, Layer
 
 ### Content Samples - LandVault
 
+My work with LandVault included collaborating with Tech & Product teams to develop the whitepaper for Matera Protocol, as well as a comprehensive Q1 2023 metaverse industry report. See the Matera website below for more information:
+
+[Matera Protocol](https://matera.landvault.io/)
+
 [Metaverse Development Framework](https://landvault.io/blog/build-accelerate-scale)
 
 [LandVault Platform Update V1.2](https://landvault.io/blog/landvault-platform-nov-update)
@@ -85,7 +94,7 @@ Additional private reports include: The Sandbox, Axie Infinity, THORChain, Layer
 
 [Ampleforth’s Recession-Resistant Monetary System](https://documentingampl.medium.com/ampleforths-recession-resistant-monetary-system-reducing-risk-in-crypto-a9689cecf9cd)
 
-[SPOT Token Revenue Opportunties (Without Staking)](https://documentingampl.medium.com/how-the-spot-token-offers-gains-without-staking-dad900a483b4)
+[SPOT Token Revenue Opportunities (Without Staking)](https://documentingampl.medium.com/how-the-spot-token-offers-gains-without-staking-dad900a483b4)
 
 [Technical Overview: SPOT Collateral Mechanism](https://documentingampl.medium.com/how-the-spot-token-achieves-a-stable-value-e769f7a94498)
 
