@@ -36,8 +36,6 @@ FEATURED:
 
 [Stabilizing DAO Treasuries with AMPL](https://medium.com/@documentingampl/stabilizing-dao-treasuries-with-ampleforth-an-elastic-supply-approach-for-long-term-resilience-in-1ce7b0958989)
 
-[Ampleforth Q2 2023 Summary]([https://documentingampl.medium.com/documenting-ampl-spot-q1-2023-performance-summary-c82225e19dbe](https://medium.com/@documentingampl/documenting-ampl-spot-q2-2023-performance-summary-f71a03116910))
-
 [2022 Digital Currency Report](currency-report-2022.pdf)
 
 
