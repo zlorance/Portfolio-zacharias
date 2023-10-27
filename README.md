@@ -6,8 +6,9 @@ Technical Writer, Researcher
 ![profile_picture](profile-pic.png)
 
 
-With my 4+ years of professional writing experience, I have acquired a dual career skillset as both a technical writer and research analyst. 
-During my professional tenure, I have:
+I now have 5+ experience as a content expert specializing in technical topics, including general computing, blockchain, crypto, AR/VR, APIs, and finance. I bring fresh perspectives to content creation and management with a versatile skillset to tackle many different forms of content beyond writing.
+
+I have:
 
 **1.** Covered several blue chip crypto / emerging technology projects for institutional investors
 
