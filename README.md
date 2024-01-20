@@ -1,6 +1,6 @@
 ## Introduction
 
-Technical Writer, Researcher
+Zachary Lorance (Zacharias) - Writer, Researcher
 
 
 ![profile_picture](profile-pic.png)
@@ -24,7 +24,7 @@ Email: zlorance@protonmail.com
 LinkedIn: 
 [Zachary T Lorance](https://www.linkedin.com/in/zacharytlorance/)
 
-Twitter Page:
+X Profile:
 [zacharias_eth](https://twitter.com/zacharias_eth)
 
 GitHub:
@@ -35,9 +35,24 @@ GitHub:
 
 FEATURED:
 
+[Documenting AMPL, SPOT 2023 Annual Review](https://documentingampl.medium.com/documenting-ampl-spot-2023-annual-review-5471ebbfbb3d)
+
 [Stabilizing DAO Treasuries with AMPL](https://medium.com/@documentingampl/stabilizing-dao-treasuries-with-ampleforth-an-elastic-supply-approach-for-long-term-resilience-in-1ce7b0958989)
 
 [2022 Digital Currency Report](currency-report-2022.pdf)
+
+
+
+
+### Buttonwood / Poolside AMM
+
+Contributing to Poolside - a unique AMM tailored to liquid staking derivatives and other forms of yield-bearing assets
+
+[Poolside Docs](https://docs.poolside.party/overview/poolside)
+
+[Announcing the SPOT/AMPL Pool](https://substack.poolside.party/p/announcing-the-spotampl-pool)
+
+[Meet Poolside: Optimizing stETH Liquidity](https://substack.poolside.party/p/meet-poolside-optimizing-steth-liquidity)
 
 
 
@@ -89,7 +104,11 @@ My work with LandVault included collaborating with Tech & Product teams to devel
 
 
 
-### Content Samples - Ampleforth Community Project
+### Content Samples - Documenting AMPL (Ampleforth Ecosystem Community Hub)
+
+[SPOTLight Series 1: How to Capture Profits from the SPOT Rotation Vault](https://documentingampl.medium.com/spotlight-series-1-how-to-capture-profits-from-the-spot-rotation-vault-79bbd9225071)
+
+[SPOTLight Series 2: Analyzing Gains Captured by Vault Stakers During Latest AMPL Rebase Cycle](https://documentingampl.medium.com/spotlight-series-2-analyzing-gains-captured-by-vault-stakers-during-latest-ampl-rebase-cycle-1141aa8ca78a)
 
 [Ampleforth’s Recession-Resistant Monetary System](https://documentingampl.medium.com/ampleforths-recession-resistant-monetary-system-reducing-risk-in-crypto-a9689cecf9cd)
 
